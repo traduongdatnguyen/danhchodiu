@@ -70,7 +70,7 @@ if (bgMusicURL) {
 </audio>
 `;
 }
-
+ 
 // setup events
 document.onpointerdown = function (e) {
   clearInterval(odrag.timer);
